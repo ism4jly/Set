@@ -2,7 +2,7 @@
 
 Trabalho realizado pelos alunos:
 
-Ismael Evaldo Paulo de Freitas
+Ismael Evaldo Paulo de Freitas,
 Nathan Schranck
 
 
@@ -10,7 +10,7 @@ Nathan Schranck
 BitArray
 Fizemos a escolha do BitArray devido ele ser extremamente eficiente para operações simples de inserção,
 remoção e consulta de elementos individuais, no entando ele aumenta quando se trata de operações um pouco mais complexas
-como união, interseção e diferença
+como união, interseção e diferença.
 Levamos em consideração também o conhecimento que temos de cada estrutura de dados, onde as demais estruturas nós ja 
 haviamos realizado pesquisas sobre elas e a BitArray que é uma estrutura mais recente para ambos os alunos, decidimos
 utiliza-la como objeto de estudo para conhecer cada estrutura e poder ter as escolhas mais adequadas para cada caso e aplicação.
